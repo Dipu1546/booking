@@ -6,7 +6,7 @@ import Navbar from "./components/Navbar";
 import HeroSection from "./components/Herosection";
 import Services from "./components/Services";
 import About from "./components/About";
-import Contact from "./components/contact";
+import Contact from "./components/Contact";
 import Footer from "./components/footer";
 
 const App = () => {
